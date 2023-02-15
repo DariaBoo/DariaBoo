@@ -1,4 +1,4 @@
-- Hi there!👋 My name's Darya Bohush.
+- Hi there!👋 My name's Daria Bohush.
 - 🌱 I’m currently learning Java.
 - 📫 How to reach me d.bogoosh@gmail.com
 
